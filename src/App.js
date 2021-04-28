@@ -8,7 +8,7 @@ function App() {
       <Children></Children>
       <Childrenn></Childrenn>
     </div>
-  );
+  )
 }
 export default App;
 
