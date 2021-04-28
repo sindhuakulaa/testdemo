@@ -2,7 +2,7 @@
 function Children(){
  return (
      <div>
-         I am from Children
+         I the  Children
          </div>
  )   
 }
